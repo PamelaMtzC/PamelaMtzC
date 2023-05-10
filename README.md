@@ -11,14 +11,16 @@ Actualmente mi experiencia profesional en el ámbito pecuario es trabajando en d
 - Costos elevados de alimentos y medicamentos en ganado
 
 ## Propuesta para terneras de 0 a 3 semanas de nacidas
-### Implemetnación de:
+### Implementación de:
 - Probioticos (Saccharomyces cerevisiae): para incrementar número de baterias ruminales y reducir la incidencia o gravedad de diarreas
 - Bacterias (cepa Nissle 1917 de Escherichia coli, Lactobacillus acidophilus 15 o S. cerevisiae NCDC49.): efecto benéfico sobre la profilaxis, reducen diarreas,  y baja significativamente la tasa de mortalidad 
-### Estos deben agregarse después de la toma de calostro y en leche fermentada
-Con la implementaciónd e estos se evita el uso de antibioticos profilacticos 
+
+### Estos deben agregarse después de la toma de calostro y en leche fermentada
+
+Con la implementación de estos se evita el uso de antibioticos profilacticos 
 
 ### El peso económico de esta estrategia es de entre 30 a 35 pesos diarios por animal
-
+### Se reducen en un 90% los costos en medicamentos en esa etapa 
 
 ## Competencias 
  - Explica el impacto de la nutrición
