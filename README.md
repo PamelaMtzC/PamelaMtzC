@@ -15,10 +15,9 @@ Actualmente mi experiencia profesional en el ámbito pecuario es trabajando en d
 - Probioticos (Saccharomyces cerevisiae): para incrementar número de baterias ruminales y reducir la incidencia o gravedad de diarreas
 - Bacterias (cepa Nissle 1917 de Escherichia coli, Lactobacillus acidophilus 15 o S. cerevisiae NCDC49.): efecto benéfico sobre la profilaxis, reducen diarreas,  y baja significativamente la tasa de mortalidad 
 
-### Estos deben agregarse después de la toma de calostro y en leche fermentada
-
 Con la implementación de estos se evita el uso de antibioticos profilacticos 
 
+### Estos deben agregarse después de la toma de calostro y en leche fermentada
 ### El peso económico de esta estrategia es de entre 30 a 35 pesos diarios por animal
 ### Se reducen en un 90% los costos en medicamentos en esa etapa 
 
