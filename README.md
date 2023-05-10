@@ -10,12 +10,15 @@ Actualmente mi experiencia profesional en el ámbito pecuario es trabajando en d
 ## Problema
 - Costos elevados de alimentos y medicamentos en ganado
 
-## Propuesta
--	Utilización de alimentos nutraceúticos irme específicamente a algunos seleccionar uno y por qué
--	Explicación de introducción, componentes extras al alimento y sus consecuencias en la salud
--	Medicamentos que se tienen que continuar aplicando aun cuando se integre esta propuesta 
--	% de aumento en costos de alimentos
--	% de disminución en costo de medicamentos
+## Propuesta para terneras de 0 a 3 semanas de nacidas
+### Implemetnación de:
+- Probioticos (Saccharomyces cerevisiae): para incrementar número de baterias ruminales y reducir la incidencia o gravedad de diarreas
+- Bacterias (cepa Nissle 1917 de Escherichia coli, Lactobacillus acidophilus 15 o S. cerevisiae NCDC49.): efecto benéfico sobre la profilaxis, reducen diarreas,  y baja significativamente la tasa de mortalidad 
+### Estos deben agregarse después de la toma de calostro y en leche fermentada
+Con la implementaciónd e estos se evita el uso de antibioticos profilacticos 
+
+### El peso económico de esta estrategia es de entre 30 a 35 pesos diarios por animal
+
 
 ## Competencias 
  - Explica el impacto de la nutrición
