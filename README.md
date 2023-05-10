@@ -10,7 +10,7 @@ Actualmente mi experiencia profesional en el ámbito pecuario es trabajando en d
 ## Problema
 - Costos elevados de alimentos y medicamentos en ganado
 
-## Propuesta para terneras de 0 a 3 semanas de nacidas
+## Propuesta: "Alimentos nutracéuticos para terneras de 0 a 3 semanas de nacidas"
 ### Implementación de:
 - Probioticos (Saccharomyces cerevisiae): para incrementar número de baterias ruminales y reducir la incidencia o gravedad de diarreas
 - Bacterias (cepa Nissle 1917 de Escherichia coli, Lactobacillus acidophilus 15 o S. cerevisiae NCDC49.): efecto benéfico sobre la profilaxis, reducen diarreas,  y baja significativamente la tasa de mortalidad 
