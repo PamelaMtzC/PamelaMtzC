@@ -6,7 +6,6 @@ Actualmente mi experiencia profesional en el ámbito pecuario es trabajando en d
 
 #### Contacto
 - Gmail: A01721491@tec.mx
-- Teléfono: 4425983716
 
 ## Problema
 - Costos elevados de alimentos y medicamentos en ganado
