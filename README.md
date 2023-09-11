@@ -1,28 +1,19 @@
 ## Perfil profesional 
 
-Actualmente mi experiencia profesional en el ámbito pecuario es trabajando en distintos proyectos escolares como:
+Hasta el momento mi experiencia profesional en el ámbito pecuario es trabajando en distintos proyectos escolares como:
 -	Selección de sementales para hato lechero de vacas Holstein (CAETEC), tomando en cuenta todas las mejoras genéticas que se buscaban tener en un futuro 
 -	Mejoramiento en la dieta para hato lechero de vacas Holstein (CAETEC) para una mayor producción
 
+Estudios
+- Del primero al sexto semestre estudié en el Tecnológico de Monterrey Campus Querétaro, México.
+- Estudio actualmente el 7mo semestre de carrera profesional en el Instituto Químico de Sarriá, Bracelona, España. 
+
 #### Contacto
-- Gmail: A01721491@tec.mx
+- Gmail: pame.maco1912@gmail.com
 
-## Problema
-- Costos elevados de alimentos y medicamentos en ganado
-
-## Propuesta: "Alimentos nutracéuticos para terneras de 0 a 3 semanas de nacidas"
-### Implementación de:
-- Probioticos (Saccharomyces cerevisiae): para incrementar número de baterias ruminales y reducir la incidencia o gravedad de diarreas
-- Bacterias (cepa Nissle 1917 de Escherichia coli, Lactobacillus acidophilus 15 o S. cerevisiae NCDC49.): efecto benéfico sobre la profilaxis, reducen diarreas,  y baja significativamente la tasa de mortalidad 
-
-Con la implementación de estos se evita el uso de antibioticos profilacticos 
-
-### Estos deben agregarse después de la toma de calostro y en leche fermentada
-### El peso económico de esta estrategia es de entre 30 a 35 pesos diarios por animal
-### Se reducen en un 90% los costos en medicamentos en esa etapa 
-
-## Competencias 
- - Explica el impacto de la nutrición
+## Competencias con las que cuento
+ - Explica el impacto de la nutrición animal y vegetal
+ - Trabajo en equipo
  - Innovación
  - Evalúa el impacto de iniciativas emprendedoras en el ámbito personal, en el ambiente, y en los diferentes grupos de interés, desde un marco ético y de sustentabilidad
  - Resuelve situaciones de la vida académica, profesional y social, mediante el cumplimiento de leyes, normas y principios éticos
