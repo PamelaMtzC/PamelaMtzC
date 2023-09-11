@@ -10,6 +10,7 @@ Estudios
 
 #### Contacto
 - Gmail: pame.maco1912@gmail.com
+- Teléfono: Es: +64 662 26 94 26, Mex: +52 442 598 3716
 
 ## Competencias con las que cuento
  - Explica el impacto de la nutrición animal y vegetal
